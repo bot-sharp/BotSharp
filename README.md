@@ -147,3 +147,7 @@ New documentation website: https://botsharp.verdure-hiro.cn
 If you feel that this project is helpful to you, please Star the project, we would be very grateful.
 
 Member project of [SciSharp STACK](https://github.com/SciSharp) which is the .NET based ecosystem of open-source software for mathematics, science, and engineering.
+
+### Sponsor
+
+Thanks to [vtexs](https://vtexs.com/) for sponsoring
